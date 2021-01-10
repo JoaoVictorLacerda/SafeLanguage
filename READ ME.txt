@@ -2,3 +2,14 @@ z1zca,z1zca,z1zca,ff650,bi4c0,aa5bc,g5582,z1zca,12cd6,61bgg,61bgg,1137g,z1zca,61
 
 
 (Control + A) and (Control + C)
+
+Dependências:
+
+1: Python3
+2: Pip3
+3: PySimpleGUI (lib de interface gráfica do python)
+4: Pypercpli
+
+Instalação:
+pip(windows) ou pip3(linux) install PySimpleGUI
+pip(windows) ou pip3(linux) install Pyperclip
