@@ -109,7 +109,7 @@ Login incorreto! Tente novamente
                janela1.Close()
                janela1 = cripto.primeiro()
     #!Perguntando se o usuário deseja salvar o login
-    elif window == janela7 and event == 'SIM' or event=='Return:36':
+    elif window == janela7 and event == 'SIM':
         janela7.Close()
         #!Query que salva o valor 'SIM' na única tabela do banco
         c.execute("INSERT INTO código VALUES('SIM')")
